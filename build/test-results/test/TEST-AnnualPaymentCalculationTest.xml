@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnnualPaymentCalculationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-09-29T06:31:56" hostname="NB-ZYATEVA" time="0.126">
+  <properties/>
+  <testcase name="test_1Million_10Years_10Percent()" classname="AnnualPaymentCalculationTest" time="0.111"/>
+  <testcase name="test_1Million_20Years_10point5Percent()" classname="AnnualPaymentCalculationTest" time="0.0"/>
+  <testcase name="test_5Million_1Year_10Percent()" classname="AnnualPaymentCalculationTest" time="0.0"/>
+  <testcase name="test_1Million_20Years_5Percent()" classname="AnnualPaymentCalculationTest" time="0.0"/>
+  <testcase name="test_1Million_1Year_10Percent()" classname="AnnualPaymentCalculationTest" time="0.001"/>
+  <testcase name="test_1Million_20Years_10Percent()" classname="AnnualPaymentCalculationTest" time="0.001"/>
+  <testcase name="test_0point1Million_1Year_10Percent()" classname="AnnualPaymentCalculationTest" time="0.002"/>
+  <testcase name="test_1Million_20Years_15point5Percent()" classname="AnnualPaymentCalculationTest" time="0.001"/>
+  <testcase name="test_1Million_20Years_1Percent()" classname="AnnualPaymentCalculationTest" time="0.003"/>
+  <testcase name="test_10Million_1Year_10Percent()" classname="AnnualPaymentCalculationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

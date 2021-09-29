@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoanAmountConditionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-29T06:31:56" hostname="NB-ZYATEVA" time="0.003">
+  <properties/>
+  <testcase name="testLastYearIncome_Less()" classname="LoanAmountConditionTest" time="0.001"/>
+  <testcase name="testLastYearIncome_More()" classname="LoanAmountConditionTest" time="0.001"/>
+  <testcase name="testLastYearIncome_Equal()" classname="LoanAmountConditionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

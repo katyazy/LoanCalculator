@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoanEngineTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2021-09-29T06:31:56" hostname="NB-ZYATEVA" time="0.047">
+  <properties/>
+  <testcase name="testApprovedAgeMin()" classname="LoanEngineTest" time="0.026"/>
+  <testcase name="testRejectedAgeMaxMale()" classname="LoanEngineTest" time="0.002"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedIncomeSourceIndividualEntrepreneur()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedRating0()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedRating1()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedRating2()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedIncomeSourceEmployee()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedIncomeSourcePassive()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedLastYearIncome()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedAgeMaxFemale()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedLoanDuration()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testApprovedLastYearIncome()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedRatingTooLow()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedJobless()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testApprovedAgeMaxFemale()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedRequestedAmountBiggerThanAllowedRatingMinus1()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testApprovedAgeMaxMale()" classname="LoanEngineTest" time="0.001"/>
+  <testcase name="testRejectedLoanDuration2()" classname="LoanEngineTest" time="0.0"/>
+  <testcase name="testRejectedAgeTooLow()" classname="LoanEngineTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

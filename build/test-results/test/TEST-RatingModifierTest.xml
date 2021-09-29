@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RatingModifierTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-29T06:31:56" hostname="NB-ZYATEVA" time="0.003">
+  <properties/>
+  <testcase name="test0()" classname="RatingModifierTest" time="0.0"/>
+  <testcase name="test1()" classname="RatingModifierTest" time="0.0"/>
+  <testcase name="test2()" classname="RatingModifierTest" time="0.0"/>
+  <testcase name="testMinus1()" classname="RatingModifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

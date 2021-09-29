@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AmountTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-09-29T06:31:56" hostname="NB-ZYATEVA" time="0.01">
+  <properties/>
+  <testcase name="test10()" classname="AmountTest" time="0.001"/>
+  <testcase name="test11()" classname="AmountTest" time="0.0"/>
+  <testcase name="test12()" classname="AmountTest" time="0.0"/>
+  <testcase name="test13()" classname="AmountTest" time="0.001"/>
+  <testcase name="test1()" classname="AmountTest" time="0.001"/>
+  <testcase name="test2()" classname="AmountTest" time="0.001"/>
+  <testcase name="test3()" classname="AmountTest" time="0.001"/>
+  <testcase name="test4()" classname="AmountTest" time="0.001"/>
+  <testcase name="test5()" classname="AmountTest" time="0.0"/>
+  <testcase name="test6()" classname="AmountTest" time="0.0"/>
+  <testcase name="test7()" classname="AmountTest" time="0.001"/>
+  <testcase name="test8()" classname="AmountTest" time="0.001"/>
+  <testcase name="test9()" classname="AmountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
